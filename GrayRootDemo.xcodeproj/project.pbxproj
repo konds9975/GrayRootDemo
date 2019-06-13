@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FF5D3F1F22B2BC0F00B37893 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5D3F1E22B2BC0F00B37893 /* AppDelegate.swift */; };
-		FF5D3F2122B2BC0F00B37893 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5D3F2022B2BC0F00B37893 /* ViewController.swift */; };
+		FF5D3F2122B2BC0F00B37893 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5D3F2022B2BC0F00B37893 /* MapViewController.swift */; };
 		FF5D3F2422B2BC0F00B37893 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF5D3F2222B2BC0F00B37893 /* Main.storyboard */; };
 		FF5D3F2722B2BC0F00B37893 /* GrayRootDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FF5D3F2522B2BC0F00B37893 /* GrayRootDemo.xcdatamodeld */; };
 		FF5D3F2922B2BC1100B37893 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF5D3F2822B2BC1100B37893 /* Assets.xcassets */; };
@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		FF5D3F1B22B2BC0F00B37893 /* GrayRootDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GrayRootDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF5D3F1E22B2BC0F00B37893 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FF5D3F2022B2BC0F00B37893 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FF5D3F2022B2BC0F00B37893 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		FF5D3F2322B2BC0F00B37893 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FF5D3F2622B2BC0F00B37893 /* GrayRootDemo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = GrayRootDemo.xcdatamodel; sourceTree = "<group>"; };
 		FF5D3F2822B2BC1100B37893 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				FF5D3F1E22B2BC0F00B37893 /* AppDelegate.swift */,
-				FF5D3F2022B2BC0F00B37893 /* ViewController.swift */,
+				FF5D3F2022B2BC0F00B37893 /* MapViewController.swift */,
 				FF5D3F2222B2BC0F00B37893 /* Main.storyboard */,
 				FF5D3F2822B2BC1100B37893 /* Assets.xcassets */,
 				FF5D3F2A22B2BC1100B37893 /* LaunchScreen.storyboard */,
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF5D3F2122B2BC0F00B37893 /* ViewController.swift in Sources */,
+				FF5D3F2122B2BC0F00B37893 /* MapViewController.swift in Sources */,
 				FF5D3F1F22B2BC0F00B37893 /* AppDelegate.swift in Sources */,
 				FF5D3F2722B2BC0F00B37893 /* GrayRootDemo.xcdatamodeld in Sources */,
 			);
